@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tFM2a9Gc6UNModZxSyM
     access-key-secret: j4RM1b4uYHq4Bdm5mYHmauvziGYPts
     bucket-name: web-bianljj
+  redis:
+    host: 192.168.174.129
+    port: 6379
+    password: 200202
+    database: 1
