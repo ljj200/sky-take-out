@@ -53,12 +53,10 @@ public class AutoFillAspect {
         Object entity = args[0];
 
         //准备赋值的数据
-
         LocalDateTime now = LocalDateTime.now();
         Long currentId = BaseContext.getCurrentId();
 
         //根据当前不同的操作类型，为对应的属性通过反射来赋值
-
         if(operationType == OperationType.INSERT){
             //为4个公共字段赋值
             try {
