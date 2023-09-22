@@ -16,6 +16,10 @@ sky:
     port: 6379
     password: 200202
     database: 1
-  wechat:
-    appid: wx1db627c6d912aed1
-    secret: 087dbb33ba8e45f594b52ba37f917321
+#  wechat:
+#    appid: wx1db627c6d912aed1
+#    secret: 087dbb33ba8e45f594b52ba37f917321
+  shop:
+    address: 四川省成都市郫都区成都工业学院
+  baidu:
+    ak: TGM9DNoIqu4O0gOZ6egCZtw3Abu6rT6Y
